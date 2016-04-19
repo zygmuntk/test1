@@ -3,3 +3,5 @@ def kalkulator (a,b operacja):
 del operacja (x, y):
 	return (x+y)
 	
+def mnozenie(x, y):
+	return (x*y)
