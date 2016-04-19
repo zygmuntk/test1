@@ -6,6 +6,6 @@ del operacja (x, y):
 def mnozenie(x, y):
 	return (x*y)
 	
-del dzielenie (x, y)
+def dzielenie (x, y)
 	return(x:y)
 	
